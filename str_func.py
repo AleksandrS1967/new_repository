@@ -10,3 +10,5 @@ def get_first_str_up(data):
     делает первую букву заглавной
     """
     return data.title()
+
+# минимальное улучшение
